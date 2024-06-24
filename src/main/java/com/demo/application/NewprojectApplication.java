@@ -8,7 +8,7 @@ public class NewprojectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NewprojectApplication.class, args);
-		System.out.println("Hi I am SpringBoot");	
+		System.out.println("Hello this is for testing");	
 		
 	}
 
